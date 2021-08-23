@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-mdpi/ic__06_target.xml" value="0.1" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-mdpi/ic__09_share.xml" value="0.1" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/bubble_corner_left.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/circular_view.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/custom_edit_text.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_attach_file.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_baseline_camera_alt_24.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_delete_white.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_doc.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_file_gray.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_fondo_chat.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_gif.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_lupa.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_pdf.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_round_send_24.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_select_image_white.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xhdpi/ic_xls.xml" value="0.32314814814814813" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xxxhdpi/ic__15_man.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xxxhdpi/ic__72_woman.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xxxhdpi/ic_baseline_brightness_auto_24.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xxxhdpi/ic_baseline_insert_drive_file_24.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xxxhdpi/ic_baseline_local_phone_24.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable-xxxhdpi/ic_baseline_priority_high_24.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable/fuente.xml" value="0.1" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable/gas_station.xml" value="0.1" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable/ic__02_chrome.xml" value="0.1" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable/ic__03_left_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable/ic__04_right_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable/ic__06_brightness.xml" value="0.1" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable/ic__09_check.xml" value="0.1" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable/ic__15_chevron.xml" value="0.1" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable/ic_burbuja_derecha.xml" value="0.35462962962962963" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/drawable/ic_burbuja_izquierda.xml" value="0.35462962962962963" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout-v23/profile_toollbar.xml" value="0.33" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/action_bar_toollbar.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/action_chats_toolbar.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/action_menu_toollbar.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activiti_chat.xml" value="0.3423728813559322" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_calification_driver.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_chat.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_chat_main.xml" value="0.31203703703703706" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_confirm_image_send.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_contactos.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_ctos.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_editar_campos.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_editar_lugar.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_fingerprint.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_history_booking_client.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_history_booking_detail_client.xml" value="0.26944444444444443" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_log.xml" value="0.29444444444444445" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_login.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_lugar_map_buscar.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_main_mensajes.xml" value="0.33" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_map.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_map_client_booking.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_map_lugares.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_menu_conductor.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_metododepago.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_payment_details.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_paypal.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_perfil.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_pin.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_registro_layaut.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_request_driver.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_seleccionar_metododepago.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_setting.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_splash.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_telefono.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_varios_destinos.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/activity_welcome.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/adapter_contatos.xml" value="0.2171875" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/adapter_mensagem_destinatario.xml" value="0.31203703703703706" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/adapter_mensagem_remetente.xml" value="0.31203703703703706" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/algoritmo_items.xml" value="0.26944444444444443" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/avd_layout.xml" value="0.26944444444444443" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/bottom_sheet_info.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/bottom_sheet_select_image.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/bottom_sheet_username.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/bottom_sheet_viewers.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/buscar_layout.xml" value="0.26944444444444443" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/card_history_booking.xml" value="0.26944444444444443" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/cardview_audio.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/cardview_chats.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/cardview_contacts.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/cardview_message.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/cardview_message_.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/chat_toolbar.xml" value="0.21927083333333333" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/contenido_doc.xml" value="0.33" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/content_apariencia_settings.xml" value="0.275" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/content_chat.xml" value="0.2861111111111111" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/content_lugares_settings.xml" value="0.275" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/content_perfil_settings.xml" value="0.275" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/content_privacidad_settings.xml" value="0.275" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/content_salir.xml" value="0.275" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/content_seguridad_settings.xml" value="0.275" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/custom_marker.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/fragment_chats.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/fragment_contacs.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/fragment_image_pager.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/fragment_lugares.xml" value="0.275" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/fragment_profile.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/pin_foto_user.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/puntos_maps.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/toollbar.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/toollbar_blanco.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/toollbar_buscar.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/toollbar_carios.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/toollbar_chat.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/toollbar_chat_imagen.xml" value="0.30648148148148147" />
+        <entry key="..\:/Users/Chau/Desktop/MangoCliente/app/src/main/res/layout/toollbar_contactos.xml" value="0.30648148148148147" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="org.jetbrains.annotations.Nullable" />
+    <option name="myDefaultNotNull" value="androidx.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="1" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="3" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="5" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="7" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+          <item index="11" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.annotations.Nullable" />
+          <item index="13" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.Nullable" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="14">
+          <item index="0" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="1" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="2" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="5" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="6" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="7" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="9" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+          <item index="11" class="java.lang.String" itemvalue="io.reactivex.annotations.NonNull" />
+          <item index="12" class="java.lang.String" itemvalue="io.reactivex.rxjava3.annotations.NonNull" />
+          <item index="13" class="java.lang.String" itemvalue="lombok.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,38 @@
+
+buildscript {
+    repositories {
+        google()
+        //noinspection JcenterRepositoryObsolete
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.2.2'
+        classpath 'com.google.gms:google-services:4.3.5'
+    }
+
+}
+allprojects {
+    repositories {
+        //noinspection JcenterRepositoryObsolete
+        jcenter()
+        maven { url 'https://jitpack.io' }
+        google()
+    }
+    configurations {
+        all {
+            resolutionStrategy.eachDependency { details ->
+                def requested = details.requested
+                if (requested.group == 'com.google.android.material') {
+                    details.useVersion '1.2.0-alpha02'
+                }
+            }
+        }
+    }
+}
+ext {
+    compileSdkVersion = 29
+    supportLibVersion = "29.0.3"
+}
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
